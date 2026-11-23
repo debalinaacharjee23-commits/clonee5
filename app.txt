@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit from github
+edit1
+Edit 2
+ f2a0d61 (save your local changes to app.txt)
